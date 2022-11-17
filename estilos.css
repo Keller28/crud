@@ -1,0 +1,130 @@
+body
+{
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+}
+#div1
+{
+    width: 35%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-image: rgb(0, 0, 0);
+    position: relative; right: -3px;
+    transform: translateY(300px);
+    
+}
+#div1regi{
+    width: 35%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-image: rgb(255, 255, 255);
+    position: relative; right: -600px;
+    transform: translateY(300px);
+    
+    
+}
+#div2consulta{
+    background-image: url(fondomenu.jpg);
+    width: 50%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-image: rgb(255, 255, 255);
+    position: relative; right: -600px;
+    transform: translateY(300px);
+}
+#div2regi{
+    background-image: url(fondomenu.jpg);
+}
+
+#div2
+{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 1px solid #cccccc;
+    background-color:white;
+    text-align: center;
+}
+
+#div3
+{
+    background-image:url(fondodeinicio.jpg);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+}
+
+
+.lgris
+{
+    color:black;
+}
+.biemenu{
+    color: white;
+}
+.ingapre{
+    font-size: 25px;
+    color: white;
+}
+.regisldat{
+    font-size: 25px;
+    color: white;
+}
+.regisl{
+font-size: 20px;
+    color: white;
+}
+
+#div3menu
+{
+    background: rgb(0, 0, 0);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    align-items: center;
+}
+
+
+.btn1
+{
+    background-color: rgb(248, 238, 238);
+    color: rgb(233, 83, 83);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+
+#divconsulta
+{
+   
+    width: 50%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-image: rgb(255, 255, 255);
+    position: relative; right: -600px;
+    transform: translateY(300px);
+}
+
+#divconsulta2
+{
+    background-color: rgb(245, 245, 245);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #cccccc;
+    text-align: center;
+}
